@@ -38,4 +38,4 @@ Following details are needed to extract from the source and I also build a solut
 
 * Import the project in IDE
 * Execute using Runner file
-
+* For different movie - Change movie name from input.properties file
